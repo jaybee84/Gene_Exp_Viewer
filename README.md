@@ -1,2 +1,3 @@
 # Gene_Exp_Viewer
-This is a link to the Rshiny tool
+Click here to access the Rshiny tool
+https://jineta.shinyapps.io/Gene_cellspecificity_viewer/
